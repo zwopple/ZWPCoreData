@@ -4,7 +4,7 @@ Shortcuts for working with Core Data on iOS and OS X.
 
 ## Installation
 
-Add `pod 'ZWPCoreData'` to your `Podfile` and then run `pod install`.
+Add `pod 'ZWPCoreData', :git => 'https://github.com/zwopple/ZWPCoreData.git'` to your `Podfile` and then run `pod install`.
 
 ## License
 
